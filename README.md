@@ -62,8 +62,8 @@ The following is simply a template that you may want to use for your own version
 
 # \<YOUR NAME\>'s blog source
 
-https://dev.to/\<YOUR DEV.TO NICKNAME\>
+https://dev.to/mahinthjoe
 
 ## Blog posts
 
-- [\<BLOG POST NAME\>](https://dev.to/\<BLOG POST LINK\>)
+- [Manage your dev.to blog posts from a GIT repo and use continuous deployment to auto publish/update them ](https://dev.to/./blog-posts/manage-dev-to-blog-posts-with-continuous-deployment/manage-dev-to-blog-posts-with-continuous-deployment.md)
